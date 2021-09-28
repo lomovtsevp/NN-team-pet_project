@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Test</folder>
+	<filename>B_RUS_6.jpg</filename>
+	<path>C:\Users\User\Desktop\4083\images\Test/B_RUS/B_RUS_6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>100</width>
+		<height>150</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>B_RUS</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>0</xmin>
+			<ymin>0</ymin>
+			<xmax>99</xmax>
+			<ymax>149</ymax>
+		</bndbox>
+	</object>
+</annotation>
